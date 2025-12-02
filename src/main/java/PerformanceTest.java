@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public class PerformanceTest
+{
 
-public class PerformanceTest {
 }
